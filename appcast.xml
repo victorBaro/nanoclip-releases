@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.2</h2><ul><li>Bug fixes and improvements</li><li>- Polished DMG installer with drag-to-Applications layout</li><li>- Fixed Cmd+H obfuscation not updating the list in real time</li><li>- Fixed Cmd+Enter not copying snippet to clipboard in argument form</li><li>- Fixed selection highlight getting lost when navigating with arrow keys</li><li>- Fixed pinned items appearing under time group headers (Today, Yesterday, etc.)</li><li>- Fixed unpinned items appearing in wrong time group order</li><li>- App Store build now allows redeeming Polar.sh license keys</li></ul>
+            ]]></description>
+            <pubDate>Mon, 06 Apr 2026 13:00:29 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.2/NanoClip.dmg"
+                sparkle:edSignature="nOU76TrVybh/GCIbL78Zrph6j71lVlcS1s0SJUQfH5py4TkiD+Y79HDQqlFUGpEYlnjmFQn5LWdto6XXVdCGDA=="
+                length="9637960"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.1</title>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
