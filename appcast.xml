@@ -7,6 +7,22 @@
         <language>en</language>
 
         <!-- Add new versions above this line -->
+        <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.1</h2><ul><li>NanoClip is a fast, lightweight clipboard manager that lives in your menu bar. Press Cmd+Option+V to instantly access everything you've ever copied — text, images, links, files, code, and colors.</li><li>CLIPBOARD HISTORY</li><li>Every copy is saved automatically. Search through your history instantly by typing, scroll back through time-grouped entries, and paste anything with a keystroke. Pin important items so they're always at the top.</li><li>SMART SNIPPETS</li><li>Save reusable text templates with dynamic placeholders. Create a snippet, assign a keyword like //sig, and type it in any app — it expands instantly. Snippets support custom arguments that you fill in before pasting.</li><li>EDIT IN PLACE</li><li>Press Cmd+E to edit any clipboard item inline. Fix a typo, tweak a URL, update a value — then paste the modified version. Your edits are saved to history.</li><li>SEQUENTIAL PASTE</li><li>Queue up multiple items and paste them one by one in order. Perfect for filling out forms, transferring data between apps, or batch-pasting a list of values.</li><li>RICH LINK PREVIEWS</li><li>Copied URLs automatically show titles, favicons, and preview images. Even works with bot-protected sites.</li><li>PERSONAL STATS</li><li>Track your clipboard habits with daily streaks, busiest hours, top apps, and content type breakdowns. See how you use your clipboard — visualized.</li><li>19 THEMES & 14 FONTS</li><li>Choose from Catppuccin, Nord, Dracula, Tokyo Night, Cyberpunk, Synthwave '84, Liquid Glass, and more. Pick your favorite font — Inter, JetBrains Mono, Sora, and 11 others.</li><li>iCLOUD SYNC</li><li>Your clipboard history and snippets sync across all your Macs via iCloud. No accounts, no servers, no setup.</li><li>PRIVACY FIRST</li><li>Content obfuscation hides sensitive items like passwords and API keys. All data stays on your device (or your iCloud). We never see your clipboard.</li><li>KEYBOARD-FIRST DESIGN</li><li>Navigate, search, expand, edit, pin, queue, and paste — all without touching your mouse. Every action has a keyboard shortcut.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 05 Apr 2026 21:55:54 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.1/NanoClip.dmg"
+                sparkle:edSignature="Gilp120dP343uYTW+GdymvDHjhy4KQV0Q1bW+AVsjT2uf5uQ2RWPgrOEGgDxydD51dl+HPk9qNHslLDfScUWDQ=="
+                length="9548775"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
 
     </channel>
 </rss>
