@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.3</h2><ul><li>Bug fixes and improvements</li><li>- Fixed the picker visuals for transparent themes by removing the bad square outer stroke/shadow effect and improving the shortcuts companion panel background behavior.</li><li>- Clipboard items now move back to the top after paste, so the most recently pasted item becomes the first item in history again.</li><li>- Added a new free Clean theme with solid light/dark backgrounds for better readability.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 09 Apr 2026 14:06:30 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.3/NanoClip.dmg"
+                sparkle:edSignature="TX9F4/3krWh/Z0b24xVgjj/BVPBIUV1REHJs/h28/n9DIfUymFjLZqF1dRN/ePPPirCNm1dhVlQ9xPJdSINCBg=="
+                length="9662686"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.2</title>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
