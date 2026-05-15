@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.8</title>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.8</h2><ul><li>- Fixed snippet export so “Export All” works correctly and saves as JSON.</li><li>- Fixed the menu item count so it respects your configured history limit.</li><li>- Improved snippet expansion: keywords now respect word boundaries by default, so "do" won’t expand inside words like "redo".</li><li>- Added a new Snippets setting, “Expand at end of words”, for users who prefer the previous suffix-matching behavior.</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 13:03:59 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.8/NanoClip.dmg"
+                sparkle:edSignature="0jstG91bVcsHRVPZWgzYT8+rk3XxEi6naQQKGBNAT/ZeKJ/uGmWsrbBFyTpwS2dSTuwplEJcVMilxq8BEdw3Bg=="
+                length="10017425"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.7</title>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
