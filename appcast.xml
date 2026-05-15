@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.7</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7</h2><ul><li>Bug fixes and improvements</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 10:27:41 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.7/NanoClip.dmg"
+                sparkle:edSignature="qZX3d3GObJIwmky0/NRaJErm/QdWp0sFN0FJG61iiHK2u0gunwag98Tjwhv4lJsf+zOLutlkxMR3Bd9t62UmAw=="
+                length="10014808"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.6</title>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
