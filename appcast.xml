@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.5</h2><ul><li>New settings option -> Side panel previews for expanded clipboard items and snippets</li><li>Added snippet import and export support, including NanoClip JSON, Alfred, and Raycast formats</li><li>Bug fixes and improvements</li><li>Free mode now previews the full current clipboard history, with locked items greyed out and the top 5 still interactive</li><li>Smoothed expand and collapse window animations</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 06:33:56 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.5/NanoClip.dmg"
+                sparkle:edSignature="NsBfIialzWwAw/lEhHPLYp3S15SnxNW+LAcrGlN1JccvVUEkiI8u8cz98N30ACWNP3KZ0EXQ4U6hRHuK78m7DQ=="
+                length="10009945"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
