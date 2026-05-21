@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>NanoClip Updates</title>
+        <link>https://github.com/victorBaro/nanoclip-releases</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+
+        <!-- Add new versions above this line -->
+        <item>
+            <title>Version 1.0.8</title>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.8</h2><ul><li>- Fixed snippet export so “Export All” works correctly and saves as JSON.</li><li>- Fixed the menu item count so it respects your configured history limit.</li><li>- Improved snippet expansion: keywords now respect word boundaries by default, so "do" won’t expand inside words like "redo".</li><li>- Added a new Snippets setting, “Expand at end of words”, for users who prefer the previous suffix-matching behavior.</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 13:03:59 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.8/NanoClip.dmg"
+                sparkle:edSignature="0jstG91bVcsHRVPZWgzYT8+rk3XxEi6naQQKGBNAT/ZeKJ/uGmWsrbBFyTpwS2dSTuwplEJcVMilxq8BEdw3Bg=="
+                length="10017425"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.7</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7</h2><ul><li>Bug fixes and improvements</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 10:27:41 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.7/NanoClip.dmg"
+                sparkle:edSignature="qZX3d3GObJIwmky0/NRaJErm/QdWp0sFN0FJG61iiHK2u0gunwag98Tjwhv4lJsf+zOLutlkxMR3Bd9t62UmAw=="
+                length="10014808"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.6</title>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.6</h2><ul><li>Auto-update reliability fix. Show version in menu bar.</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 10:15:54 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.6/NanoClip.dmg"
+                sparkle:edSignature="vQzuBxhJUnlQo5jwXj478YhPOuWNaPvedjx1mRnXN1fnEs1hZpuef0/tnkrYZzT6jk7WsQzIV04853yCM2LFBA=="
+                length="10014865"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.5</h2><ul><li>New settings option -> Side panel previews for expanded clipboard items and snippets</li><li>Added snippet import and export support, including NanoClip JSON, Alfred, and Raycast formats</li><li>Bug fixes and improvements</li><li>Free mode now previews the full current clipboard history, with locked items greyed out and the top 5 still interactive</li><li>Smoothed expand and collapse window animations</li></ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 06:33:56 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.5/NanoClip.dmg"
+                sparkle:edSignature="NsBfIialzWwAw/lEhHPLYp3S15SnxNW+LAcrGlN1JccvVUEkiI8u8cz98N30ACWNP3KZ0EXQ4U6hRHuK78m7DQ=="
+                length="10009945"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.4</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.4</h2><ul><li>Bug fixes and improvements</li></ul>
+            ]]></description>
+            <pubDate>Thu, 30 Apr 2026 18:37:52 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.4/NanoClip.dmg"
+                sparkle:edSignature="lnUqvXtgkM74FmOMerAsmGDKjfoa58HNKcvywJhGNwVwfLtGY9WVYEs8D93Vjow2AxTdk0HN4Oe46eRFL1EaAg=="
+                length="9820292"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.3</h2><ul><li>Bug fixes and improvements</li><li>- Fixed the picker visuals for transparent themes by removing the bad square outer stroke/shadow effect and improving the shortcuts companion panel background behavior.</li><li>- Clipboard items now move back to the top after paste, so the most recently pasted item becomes the first item in history again.</li><li>- Added a new free Clean theme with solid light/dark backgrounds for better readability.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 09 Apr 2026 14:06:30 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.3/NanoClip.dmg"
+                sparkle:edSignature="TX9F4/3krWh/Z0b24xVgjj/BVPBIUV1REHJs/h28/n9DIfUymFjLZqF1dRN/ePPPirCNm1dhVlQ9xPJdSINCBg=="
+                length="9662686"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.2</h2><ul><li>Bug fixes and improvements</li><li>- Polished DMG installer with drag-to-Applications layout</li><li>- Fixed Cmd+H obfuscation not updating the list in real time</li><li>- Fixed Cmd+Enter not copying snippet to clipboard in argument form</li><li>- Fixed selection highlight getting lost when navigating with arrow keys</li><li>- Fixed pinned items appearing under time group headers (Today, Yesterday, etc.)</li><li>- Fixed unpinned items appearing in wrong time group order</li><li>- App Store build now allows redeeming Polar.sh license keys</li></ul>
+            ]]></description>
+            <pubDate>Mon, 06 Apr 2026 13:00:29 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.2/NanoClip.dmg"
+                sparkle:edSignature="nOU76TrVybh/GCIbL78Zrph6j71lVlcS1s0SJUQfH5py4TkiD+Y79HDQqlFUGpEYlnjmFQn5LWdto6XXVdCGDA=="
+                length="9637960"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.1</h2><ul><li>NanoClip is a fast, lightweight clipboard manager that lives in your menu bar. Press Cmd+Option+V to instantly access everything you've ever copied — text, images, links, files, code, and colors.</li><li>CLIPBOARD HISTORY</li><li>Every copy is saved automatically. Search through your history instantly by typing, scroll back through time-grouped entries, and paste anything with a keystroke. Pin important items so they're always at the top.</li><li>SMART SNIPPETS</li><li>Save reusable text templates with dynamic placeholders. Create a snippet, assign a keyword like //sig, and type it in any app — it expands instantly. Snippets support custom arguments that you fill in before pasting.</li><li>EDIT IN PLACE</li><li>Press Cmd+E to edit any clipboard item inline. Fix a typo, tweak a URL, update a value — then paste the modified version. Your edits are saved to history.</li><li>SEQUENTIAL PASTE</li><li>Queue up multiple items and paste them one by one in order. Perfect for filling out forms, transferring data between apps, or batch-pasting a list of values.</li><li>RICH LINK PREVIEWS</li><li>Copied URLs automatically show titles, favicons, and preview images. Even works with bot-protected sites.</li><li>PERSONAL STATS</li><li>Track your clipboard habits with daily streaks, busiest hours, top apps, and content type breakdowns. See how you use your clipboard — visualized.</li><li>19 THEMES & 14 FONTS</li><li>Choose from Catppuccin, Nord, Dracula, Tokyo Night, Cyberpunk, Synthwave '84, Liquid Glass, and more. Pick your favorite font — Inter, JetBrains Mono, Sora, and 11 others.</li><li>iCLOUD SYNC</li><li>Your clipboard history and snippets sync across all your Macs via iCloud. No accounts, no servers, no setup.</li><li>PRIVACY FIRST</li><li>Content obfuscation hides sensitive items like passwords and API keys. All data stays on your device (or your iCloud). We never see your clipboard.</li><li>KEYBOARD-FIRST DESIGN</li><li>Navigate, search, expand, edit, pin, queue, and paste — all without touching your mouse. Every action has a keyboard shortcut.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 05 Apr 2026 21:55:54 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.0.1/NanoClip.dmg"
+                sparkle:edSignature="Gilp120dP343uYTW+GdymvDHjhy4KQV0Q1bW+AVsjT2uf5uQ2RWPgrOEGgDxydD51dl+HPk9qNHslLDfScUWDQ=="
+                length="9548775"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+
+    </channel>
+</rss>
