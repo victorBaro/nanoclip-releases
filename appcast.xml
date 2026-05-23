@@ -12,7 +12,16 @@
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>What's New in 1.1.0</h2><ul><li>30 built-in blocks and 30 ready-to-run starter flows, free out of the box</li><li>Step-by-step results viewer with streaming output</li><li>Apple Intelligence free on-device; Ollama and cloud AI with Pro</li><li>Per-flow shortcuts and run flows on Finder files</li></ul>
+                <h2>What's New in 1.1.0</h2>
+                <p><strong>Meet Flows — turn your clipboard into a one-keystroke automation tool.</strong></p>
+                <ul>
+                    <li><strong>Flows</strong> run multi-step actions on anything you copy — clean it, convert it, summarize it, or transform it, all without leaving the keyboard.</li>
+                    <li><strong>30 built-in blocks</strong> across text, URLs, images, and AI, plus <strong>30 starter flows</strong> that work the moment you install — free.</li>
+                    <li><strong>Live results viewer</strong> streams each step as it runs, so you see exactly what happened and can grab the output at any stage.</li>
+                    <li><strong>Your AI, your choice</strong> — Apple Intelligence runs free and on-device; bring Ollama or cloud models (OpenAI, Anthropic, Gemini) with Pro.</li>
+                    <li><strong>A shortcut for every flow</strong> — trigger any flow with its own global hotkey, or run one straight on files selected in Finder.</li>
+                    <li>Plus a faster, searchable block picker and fixes for snippet auto-expansion, onboarding permissions, and image resizing.</li>
+                </ul>
             ]]></description>
             <pubDate>Sat, 23 May 2026 10:43:34 -0700</pubDate>
             <enclosure
