@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.1</h2><ul><li>Introducing Flows!</li><li>30 built-in blocks and 30 ready-to-run starter flows, free out of the box</li><li>Step-by-step results viewer with streaming output</li><li>Apple Intelligence free on-device; Ollama and cloud AI with Pro</li><li>Per-flow shortcuts and run flows on Finder files</li></ul>
+            ]]></description>
+            <pubDate>Sat, 23 May 2026 12:18:42 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.1.1/NanoClip.dmg"
+                sparkle:edSignature="41c5x3hTZtcWFPgf+xeg4sOwre9dV659+7stQF6BAt8yNaYVPniuPe1djc6hFlsZVL0awGUA6wZnim1eQhzEDg=="
+                length="11132714"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.0</title>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
