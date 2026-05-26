@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.2</title>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.2</h2><ul><li>This update polishes the new Flows release and fixes a few rough edges from 1.1.1.</li><li>Added Flow usage stats in the Stats tab, including total runs, runs today, success rate, and top-used flows.</li><li>Added an Open Flows Guide button in Flow settings.</li><li>Added a Feature Request menu item that opens the NanoApps feedback board.</li><li>Improved snippet expansion reliability by tightening Input Monitoring registration.</li><li>Improved selected row icon contrast for snippets and flows across themes.</li></ul>
+            ]]></description>
+            <pubDate>Mon, 25 May 2026 19:53:33 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.1.2/NanoClip.dmg"
+                sparkle:edSignature="/s6Y0ByxntN6mvBNPr+q2lCtWoc1qFQyXmG9oh5cf3kdK3gDSxzEIeQFPQdkBQLwP81DH5cHGBfqNiTJevZWCA=="
+                length="11166375"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.1</title>
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
