@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.3</title>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.3</h2><ul><li>This release adds better organization for snippets and makes Flows more useful for real-world file workflows.</li><li>Snippets can now be tagged with #tags.</li><li>The Snippets view can group items by tag, enabled by default when tagged snippets exist.</li><li>Snippets without tags stay unsectioned until you start using tags.</li><li>Flows can now run on multiple compatible items at once.</li><li>Use Cmd + Return while choosing flow input to select multiple clipboard items, then Return to run the flow.</li><li>File-based flows can now receive multiple selected files, making workflows like compressing several images much faster.</li><li>Flow results now make image/file outputs clearer, including better previews and clipboard behavior for batch outputs.</li></ul>
+            ]]></description>
+            <pubDate>Wed, 27 May 2026 14:37:49 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.1.3/NanoClip.dmg"
+                sparkle:edSignature="kUhIjrx2LmQi37xo8QQktuG0I6kIkL7WBNc3YOe+XYubm2W+LLK4Zh/vYZZ0CtFqm5khGRNST6CJjfQ1I0xyDA=="
+                length="11245697"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.2</title>
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
