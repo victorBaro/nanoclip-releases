@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.4</title>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.4</h2><ul><li>Removed the unclear Clean Text starter flow.</li><li>Added Clean URL to remove common tracking parameters from links.</li><li>Added URL to QR Code to generate a QR image from a copied URL.</li><li>Kept Fix Spelling as its own separate flow.</li><li>Added flow descriptions so users can understand what each flow does.</li><li>Added expandable flow rows showing the description and each step.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 28 May 2026 07:04:29 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.1.4/NanoClip.dmg"
+                sparkle:edSignature="qY3OsaEDTfpYWgbmk1aVFTrC9g73btxRBD2KqKijkksolcUEkd4T9bxIUVxAuC18BUokIKYn8fT2aZB7JWf0AA=="
+                length="11298871"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.3</title>
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
