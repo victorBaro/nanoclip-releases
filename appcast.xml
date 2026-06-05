@@ -12,7 +12,7 @@
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>What's New in 1.1.6</h2><ul><li>NanoClip's picker window now appears immediately when you invoke it.</li><li>Added a Picker setting to turn open and close animations on or off.</li><li>When animations are disabled, NanoClip also disables AppKit window animations for the snappiest shortcut response.</li></ul>
+                <h2>What's New in 1.1.6</h2><ul><li>NanoClip's picker window now appears immediately when you invoke it.</li><li>Added a Picker setting to turn open and close animations on or off.</li></ul>
             ]]></description>
             <pubDate>Fri, 05 Jun 2026 06:16:33 -0700</pubDate>
             <enclosure
