@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.1.7</title>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.1.7</h2><ul><li>Fixed major picker performance regressions that made scrolling feel janky, especially in long lists.</li><li>Reduced expensive per-row work in clipboard history by improving caching.</li><li>Fixed Snippets keyboard navigation when snippets are grouped by tag. Up/down selection now follows the same order shown visually.</li><li>Fixed Flows preview behavior so the “Side Panel” preview setting is respected.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 07:58:11 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.1.7/NanoClip.dmg"
+                sparkle:edSignature="O8woXkdjLyDGQJ+zfJpaqSRWMMB6MyOfs1xfAhOYtNbohijWT8PYPVbqAGK/fdFrt+pYDiCrE4QYRzpyCZopBw=="
+                length="11448200"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.6</title>
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
