@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.2.0</title>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.2.0</h2><ul><li>New AI image flows are here: You can now use NanoClip flows to generate images from text prompts, edit images you copied with a prompt, upscale images, and describe images as text. Image results can be copied or pasted back into other apps just like the rest of your clipboard workflow.</li><li>This update also adds image model settings for supported providers, so you can choose which provider and model NanoClip uses for generation, editing, upscaling, and image description.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 11 Jun 2026 19:58:54 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.2.0/NanoClip.dmg"
+                sparkle:edSignature="deleDGPzDlMePIUMmcm/XgvF+FoO9XlY1v74CE+nQLLF4MJQhXEV5P82WKBAYZ6BN/YdZYAs2FIcVwadlp6CAQ=="
+                length="11756133"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.1.8</title>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
