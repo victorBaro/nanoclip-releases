@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.3.0</title>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.3.0</h2><ul><li>Added Smart Clip Categories in the Clipboard picker: All, Pinned, Links, Images, Files, Colors, Code, Secrets, and AI.</li><li>Added keyboard category cycling with ⌘[ / ⌘].</li><li>Cleaned up the bottom picker bar so it focuses on current-item actions.</li><li>Fixed Preview Style persistence so Side panel stays selected after quitting and reopening NanoClip.</li></ul>
+            ]]></description>
+            <pubDate>Fri, 12 Jun 2026 18:57:12 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.3.0/NanoClip.dmg"
+                sparkle:edSignature="jFXX74/Fy3xRl5+ftNf0DXDrRUXzWVI10V0udtoYkljbajDe7HQ9U8s9jliNig8ZuZeEWSffh2TL61oLW42qCQ=="
+                length="11796366"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.2.0</title>
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
