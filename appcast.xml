@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.5.0</title>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.5.0</h2><ul><li>iOS beta sync: NanoClip 1.5 is required for the iOS companion to sync. Remember to enable iCloud Sync in Settings on your Mac.</li><li>Added a Settings link to join the NanoClip iOS TestFlight beta.</li><li>Added custom date-format snippet presets, including formats such as {date format="yyyyMMdd"}.</li><li>Added typed snippet arguments, including number-aware input and remembered recent values.</li><li>Made Strip Formatting safe for plain text while continuing to convert rich text.</li><li>Improved Mac clipboard image presentation with square thumbnails and cleaner side-panel rendering.</li><li>Fixed Flow Results windows appearing without a background on Liquid Glass themes.</li><li>Fixed long-list performance and side-panel clipping.</li><li>Fixed Mac license credentials sometimes needing to be entered again after an update or temporary network failure.</li><li>Fixed placeholder diagnostics and unresolved tokens appearing in pasted output.</li><li>Rebuilt clipboard and snippet sync around per-item CloudKit records for more reliable merging and pinned-first ordering.</li></ul>
+            ]]></description>
+            <pubDate>Tue, 14 Jul 2026 10:34:38 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.5.0/NanoClip.dmg"
+                sparkle:edSignature="QFPSohhTTZEd5zZSmjHqgtkV/EnPJ1y+KpbGA2RbOVKPxe3l0x9x7XqSKIk7r78y14Ig/v6xq0ohHfRTcgV6CQ=="
+                length="12341113"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.4.3</title>
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
