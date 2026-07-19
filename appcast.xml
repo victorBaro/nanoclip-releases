@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.6.1</title>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.6.1</h2><ul><li>Added a searchable emoji picker with categories, recent emoji, favorites, skin-tone variants, and a Control-Command-E shortcut.</li><li>The picker can now be freely moved and resized, snaps to useful screen positions, and remembers its size and location.</li><li>Added horizontal tag filters to Snippets while preserving full keyboard navigation.</li><li>Added an option to keep the side-panel preview open and fixed picker settings not persisting after quitting.</li><li>Refined Liquid Glass and theme backgrounds with native materials and optional tinted vibrancy.</li><li>Improved first-sync reliability with the NanoClip iOS companion.</li><li>Global shortcuts now follow the active keyboard layout, including Turkish F Extended.</li><li>Fixed empty-category layouts, unsupported emoji rendering, skin-tone sequences, and several picker resizing issues.</li><li>Added user information about what’s new.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 19 Jul 2026 09:20:23 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.6.1/NanoClip.dmg"
+                sparkle:edSignature="EwYH5s/WOy5Tscr/Xo0rd8AYST2XMdiMfJW+tnni19JwBLoVkCWqhlnedafOYj4M8DOaGLb/W/Y4Oufe2qqJDA=="
+                length="12689857"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.6.0</title>
             <sparkle:version>50</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
