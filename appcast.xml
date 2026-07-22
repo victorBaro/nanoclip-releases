@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.0</title>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.0</h2><ul><li>Copy Stack lets you merge multiple text clips with ⌘C and paste them together with Return.</li><li>Choose whether Copy Stack items are separated by a space, new line, or nothing.</li><li>Optionally show the live Copy Stack result at the top of Clipboard History.</li><li>Press ⌘⇧Delete to clear your entire clipboard history after confirmation.</li><li>Press ⌘W to close NanoClip.</li><li>Search fields now support native macOS selection shortcuts such as ⌘A and ⌘⇧Arrow.</li><li>Deleting an item keeps the side preview open and focuses the next item.</li><li>Text edited with ⌘E now updates immediately.</li><li>Fixed Ignored Apps sometimes disappearing after navigating elsewhere in Settings.</li></ul>
+            ]]></description>
+            <pubDate>Wed, 22 Jul 2026 11:27:06 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.0/NanoClip.dmg"
+                sparkle:edSignature="N5AFF/A84IV7QkyCw1LLPRLVRzIfxvJpGTV3ACx8gZndkUWNxluvzkQC1CQ9cCqpKgjOCDsiGrx4UjkBNPprDA=="
+                length="12857042"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.6.1</title>
             <sparkle:version>51</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
