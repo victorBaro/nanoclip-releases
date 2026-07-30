@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.2</title>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.2</h2><ul><li>This update improves search reliability, picker behavior, and settings persistence.</li><li>Search now scans your complete clipboard history, including full URLs and file paths.</li><li>The picker now opens on the display you’re currently using.</li><li>Plain numbers are no longer incorrectly identified as phone numbers.</li><li>Ignored and obfuscated app settings now save and load reliably.</li><li>Search mode now hides the tab selector for a cleaner layout.</li><li>Refined the picker footer with a lighter, native glass appearance.</li></ul>
+            ]]></description>
+            <pubDate>Wed, 29 Jul 2026 17:15:28 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.2/NanoClip.dmg"
+                sparkle:edSignature="LNtGsNIuaWVkldrcajjf9ETR+pD77GxkDYHTiu3r/EMJQiU5ETP9OLFVzmznIKE7EzzHFGVYHsAwIQ33Nk8DBA=="
+                length="12887814"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.1</title>
             <sparkle:version>53</sparkle:version>
             <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
