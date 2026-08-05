@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.4</title>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.4</h2><ul><li>Added native Quick Look previews for image clips — select an image and press Space.</li><li>Clipboard and snippet cells can now be selected with the mouse, without pasting or closing NanoClip.</li><li>Refined the glass command bar so content flows naturally beneath it while the final list and preview content remains reachable.</li><li>Improved Universal Clipboard capture reliability for delayed remote clipboard transfers.</li><li>Improved Flows with mouse selection, visual drag-and-drop step reordering, and easier step insertion.</li></ul>
+            ]]></description>
+            <pubDate>Wed, 05 Aug 2026 12:20:42 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.4/NanoClip.dmg"
+                sparkle:edSignature="ywFFlIVCbd2YLNDQ/37g72CgGO2JaCXJYn7Tu8LPlIrf5RBKc0jJmUFPqHT0JjVYPnHSL1e40zrs8fOlqNKXAA=="
+                length="15677635"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.3</title>
             <sparkle:version>55</sparkle:version>
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
