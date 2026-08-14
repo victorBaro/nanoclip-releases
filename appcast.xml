@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.5</title>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.5</h2><ul><li>Keep pinned clips out of All by default, with a setting to restore the previous behavior.</li><li>Double-click clips, snippets, or flows to use them just like pressing Return.</li><li>Press ⌘← in Flows to return to Clipboard.</li><li>Exclude individual files or entire folders from clipboard history.</li><li>Wrap Flow text with a custom prefix and suffix—for example, <blockquote> and </blockquote>.</li></ul>
+            ]]></description>
+            <pubDate>Fri, 14 Aug 2026 06:56:10 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.5/NanoClip.dmg"
+                sparkle:edSignature="vvG9jJyl/Oava0cNKlF6aoBH9qEl78lBEvsP34GXhUxZrQnBd0fttWSNq/4xX71RQ6S+Y3ebGCQIs+TC4lzoDQ=="
+                length="15749237"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.4</title>
             <sparkle:version>56</sparkle:version>
             <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
