@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.6</title>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.6</h2><ul><li>Added optional Quick Copy: select text and release the mouse to copy it automatically.</li><li>Fixed search and category filters missing older clipboard items until you scrolled through history.</li><li>Fixed the clipped banner when choosing clipboard input for a Flow.</li><li>The clipboard window now expands and contracts when you open or close the detail pane.</li><li>Slightly increased the menu bar icon size.</li></ul>
+            ]]></description>
+            <pubDate>Mon, 07 Sep 2026 14:41:04 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.6/NanoClip.dmg"
+                sparkle:edSignature="eEVZnG6VQK2FLQYu2y6A6yEz8m4xXSEQ8/hfoRUMhBbQdpjbXxAyDKIYqh9d93KR6aMKX5JyVlA+amaCvCFKBw=="
+                length="15785738"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.5</title>
             <sparkle:version>57</sparkle:version>
             <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
