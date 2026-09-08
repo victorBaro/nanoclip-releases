@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.9</title>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>1.7.9</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.9</h2><ul><li>Quick Copy now confirms copied text with a brief menu-bar icon change. You can also choose an animation beside the selected text or turn feedback off.</li><li>Quick Copy now ignores window moves, resizing, and control drags.</li><li>Restored the glass appearance of the shortcut bar in the Liquid Glass theme.</li><li>View your license activation count and reset old installations from License settings.</li><li>Improved license recovery and clearer activation error messages.</li></ul>
+            ]]></description>
+            <pubDate>Tue, 08 Sep 2026 16:47:50 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.9/NanoClip.dmg"
+                sparkle:edSignature="IlsLVXXxvg8KOksAYBM3dvBfO7DjCwC5IY6yX/ROCvHLfBA/iKOAjH1PIqOFvzGJOmo0YKhWTDk5k5O8UhgeAQ=="
+                length="15918766"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.7</title>
             <sparkle:version>59</sparkle:version>
             <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
