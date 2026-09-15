@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.7.11</title>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>1.7.11</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.7.11</h2><ul><li>Fixed an issue that prevented typing from starting a search when a clipboard preview had keyboard focus.</li></ul>
+            ]]></description>
+            <pubDate>Tue, 15 Sep 2026 11:45:57 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.7.11/NanoClip.dmg"
+                sparkle:edSignature="/pQETR3mvbGxmp13sTfgY0FFL5gQorsLiuF2ryC1xS9Y0MtrAQWlpEumlfb6Zq4rwIKq03DbpmhMOkG4eMVHAw=="
+                length="15918950"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.10</title>
             <sparkle:version>62</sparkle:version>
             <sparkle:shortVersionString>1.7.10</sparkle:shortVersionString>
