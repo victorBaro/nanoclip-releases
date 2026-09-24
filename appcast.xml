@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.8.0</title>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.8.0</h2><ul><li>Clipboard history is now free, with no paid item limit. Free includes three snippets; Pro unlocks unlimited snippets and all Flows.</li><li>Find Flows faster with category filters and a dedicated pinned section.</li><li>Start cleanly without old update announcements, and reopen onboarding from Settings.</li><li>Search text inside copied images and screenshots using on-device recognition.</li><li>Use Shortcuts to open NanoClip and search clipboard history.</li><li>Improved clipboard privacy handling and on-device AI compatibility on newer macOS versions.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 24 Sep 2026 10:04:17 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.8.0/NanoClip.dmg"
+                sparkle:edSignature="T/aot+Lu/BI7CVwq92ZB5++g0GmvQjqeXiVLmZKb6X6h9z7ju+JKvb8tjIoMQlgiz2Z83feP493QB5p520yLDQ=="
+                length="16272781"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.7.11</title>
             <sparkle:version>63</sparkle:version>
             <sparkle:shortVersionString>1.7.11</sparkle:shortVersionString>
