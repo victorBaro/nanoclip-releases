@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.8.1</title>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.8.1</h2><ul><li>Fixed Settings opening behind clipboard history when using ⌘,.</li><li>Made first-time setup clearer, with a simple first-paste guide and an explicit option to continue with free clipboard history.</li><li>Improved purchase and restore feedback, including retrying unavailable prices and showing pending approvals.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 27 Sep 2026 09:11:15 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.8.1/NanoClip.dmg"
+                sparkle:edSignature="CZEK29mqd/tx1NNRVYR1rsVV4OmHR9gtnalgPNvC3vnupSWebm4Itp0V9RQ/GwAr3XtN+N3E6B59Il2//SM4DQ=="
+                length="16299511"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.8.0</title>
             <sparkle:version>64</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
