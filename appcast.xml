@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.9.0</title>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.9.0</h2><ul><li>Normalize copied rich text and convert between rich text and Markdown with new starter Flows.</li><li>Run text Flows and expand snippets from Apple Shortcuts.</li><li>See progress and cancel long-running Flows in Shortcuts on macOS 27.</li><li>Updated AI model choices and improved compatibility with cloud providers.</li></ul>
+            ]]></description>
+            <pubDate>Thu, 01 Oct 2026 15:27:18 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.9.0/NanoClip.dmg"
+                sparkle:edSignature="k/L/oSx1Gm8SWAnOwQLY5PGyY9TDvVbQhrL0rcqsGKU6P4a4LlovU+LMPpoe2gc6OTlf/XvQqOx7ckoqRSHEDw=="
+                length="16418898"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.8.1</title>
             <sparkle:version>65</sparkle:version>
             <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
