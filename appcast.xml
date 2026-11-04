@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.10.0</title>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.10.0</h2><ul><li>Save clipboard text, links, and resolved snippets into new or existing NanoPad notes.</li><li>Transform selected NanoPad text with NanoClip and explicitly return the result to the note.</li><li>Find NanoClip for iPhone on the App Store and use consistent Support controls in Settings.</li></ul>
+            ]]></description>
+            <pubDate>Wed, 04 Nov 2026 05:42:13 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.10.0/NanoClip.dmg"
+                sparkle:edSignature="LMQMDZ8VoKRFggYgcqLKVvGWAQGkm9+ZBeNU9W07q6jJn8NQaON8/GbCll9x/eNzmzYA2ziy5dYAEJlQk5u2DQ=="
+                length="16675982"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.9.0</title>
             <sparkle:version>66</sparkle:version>
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
