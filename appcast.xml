@@ -8,6 +8,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.11.0</title>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.11.0</h2><ul><li>Run Quick Flows on compatible files and folders directly from Finder.</li><li>Search copied images and screenshots by the text they contain.</li><li>Organize clipboard items into named collections with keyboard support.</li><li>Import Markdown files as snippets.</li><li>Customize keyboard shortcuts and explore the redesigned Settings window.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 15 Nov 2026 12:05:59 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/nanoclip-releases/releases/download/v1.11.0/NanoClip.dmg"
+                sparkle:edSignature="RXUuqDDvw2CdySvQ1/5PAR/KF2TnJFxrkdi2yGh2cIzJ0RONYL8TyaOUfdErxA8HFqK1xWtLaQDLAZSIDNOsAQ=="
+                length="17169391"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.10.1</title>
             <sparkle:version>70</sparkle:version>
             <sparkle:shortVersionString>1.10.1</sparkle:shortVersionString>
